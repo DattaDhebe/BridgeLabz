@@ -9,7 +9,7 @@ case $empCheck in
 	$isFullTimeEmpPresent)
 		empHrs=8
 		;;
-	$isPartTimePresent)
+	$isPartTimeEmpPresent)
 		empHrs=4
 		;;
 	*)
